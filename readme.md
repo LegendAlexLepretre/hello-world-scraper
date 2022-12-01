@@ -1,6 +1,7 @@
 # Authors
 
-
+* 🇫🇷 Philippe Alvais
+* 🇧🇷 Alexandre Opadre
 
 # Introduction
 Help! We don't know how to write a "Hello World!" program however we know how to scrape pages. 😱
